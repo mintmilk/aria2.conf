@@ -4,7 +4,7 @@
 
 ## fork的原链接：
 https://github.com/P3TERX/aria2.conf    
-https://github.com/fsaimon/aria2.conf
+https://github.com/fsaimon/aria2.conf    
     感谢！
 
 ## 功能特性
