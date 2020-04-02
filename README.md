@@ -20,7 +20,7 @@ https://github.com/fsaimon/aria2.conf
 
 ## 文件说明
 
-下载位置已经改为/home/pi/Downloads/aria2
+下载位置已经改为：/home/pi/Downloads/aria2  
 配置文件路径：/home/pi/.aria2
 
 ### 附加功能脚本
