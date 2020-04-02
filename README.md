@@ -3,9 +3,9 @@
 本项目是一套树莓派上的 Aria2 配置方案，全部fork大佬配置😄，包含了配置文件、附加功能脚本等文件，用于实现 Aria2 功能的增强和扩展，提升 Aria2 的使用体验，解决 Aria2 在使用中遇到的 BT 下载无速度、文件残留占用磁盘空间、任务丢失、重复下载等问题。
 
 ## fork的原链接：
-https://github.com/P3TERX/aria2.conf
+https://github.com/P3TERX/aria2.conf    
 https://github.com/fsaimon/aria2.conf
-感谢！
+    感谢！
 
 ## 功能特性
 
