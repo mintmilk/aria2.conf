@@ -20,7 +20,8 @@ https://github.com/fsaimon/aria2.conf
 
 ## 文件说明
 
-`aria2.conf` - Aria2 配置文件。除非你对这些参数非常了解，否则修改后可能导致特性失效。
+下载位置已经改为/home/pi/Downloads/aria2
+配置文件路径：/home/pi/.aria2
 
 ### 附加功能脚本
 
